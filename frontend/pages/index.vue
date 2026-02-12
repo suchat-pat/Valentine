@@ -134,7 +134,7 @@ const balloons = ref([])
 const slides = [
   { src: 'img/11.jpg' }, // เปลี่ยนเป็นรูปคู่ของคุณ
   { src: 'img/22.jpg' },
-  { src: 'img/44.png' },
+  { src: 'img/33.jpg' },
 ]
 
 // --- Logic สร้างลูกโป่ง ---
