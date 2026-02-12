@@ -3,7 +3,7 @@ import vuetify,{transformAssetUrls} from "vite-plugin-vuetify";
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'สุขสันต์วัน Valentines Day นะที่รัก',
+      title: 'สุขสันต์วันเกิดนะที่รัก',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
